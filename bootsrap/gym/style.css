@@ -1,0 +1,67 @@
+
+.child-1{
+    text-align: center;
+    position: absolute;
+    top: 0;
+    background-color: yellow;
+    left: 35%;
+    padding: 30px 60px;
+}
+.child-2{
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 24%;
+    width: 50%;
+    color: white;
+
+}
+.child-1 h3{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.image-style{
+    filter: blur(3px);
+    width: 100%;
+}
+.bg-size{
+    height: 450px;
+    overflow: hidden;
+}
+.btn-1{
+    background-color: yellow;
+    padding: 20px 40px;
+}
+.heading{
+    text-transform: uppercase;
+    text-align: center;
+    padding: 30px 60px;
+    background-color: black;
+    color: white;
+}
+.row{
+    display: flex;
+    text-align: center;
+    background-color: yellow;
+    
+}
+.font-style{
+    font-weight: 300;
+}
+.row-1{
+    top: 10;
+    display: flex;
+    color: yellow;
+    background-color: black;
+    text-transform: uppercase;
+    
+    
+}
+.heading-1{
+    text-align: center;
+}
+.sub-head{
+    text-align: center;
+}

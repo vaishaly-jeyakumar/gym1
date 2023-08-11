@@ -1,0 +1,58 @@
+.container{
+    width: 50%;
+    margin: auto;
+}
+.roaw {
+    display: flex;
+}
+.col-1 {
+    width: 50%;
+
+}
+.col-2{
+    width: 50%;
+}
+.input-style{
+    width: 80%;
+    height: 30px;
+}
+.input-style1{
+    width: 90%;
+    height: 30px;
+}
+.input-select{
+    width: 91%;
+    height: 30px;
+}
+.text-style{
+    width: 90%;
+    height: 60px;
+}
+.button-right{
+    width: 91%;
+    text-align: end;
+
+}
+.button-style{
+    background-color: white;
+    color: green;
+    border: 2px solid green;
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+.button-style:hover{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+.row{
+    display: flex;
+}
+.col-3{
+    width: 50%;
+    text-align: center;
+}
+.col-4{
+    width: 50%;
+    text-align: center;
+}

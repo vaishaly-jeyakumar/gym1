@@ -1,0 +1,14 @@
+.row{
+    text-align: center;
+}
+.head{
+    text-transform: uppercase;
+    color: green;
+}
+.box{
+    position: relative;
+}
+.box-child{
+    position: absolute;
+}
+
